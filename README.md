@@ -10,3 +10,17 @@
 6) Launch it.
 
    ----Have fun-----
+
+
+-----commands--------
+
+M: menu
+L: levels
+A: adventure
+SPACE: start/Jump
+DOWN: go down
+
+<Unkown key>: DM Max Energy on my discord server to get password
+
+Discord server: https://discord.gg/Q2zAeQ8p
+Discord: dragon_drum
